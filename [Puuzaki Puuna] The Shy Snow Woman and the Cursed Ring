@@ -1,0 +1,25 @@
+{
+   "title":"[Puuzaki Puuna] The Shy Snow Woman and the Cursed Ring",
+   "description":"",
+   "author":"Puuzaki Puuna",
+   "artist":"Puuzaki Puuna",
+   "cover":"https://i.imgur.com/RXdJGmF.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/2VTqCYh"
+         },
+         "last_updated":1624606143,
+         "title":"The Shy Snow Woman and the Cursed Ring",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/WAVQUee"
+         },
+         "last_updated":1624606143,
+         "title":"The Shy Snow Woman and the Cursed Ring 2",
+         "volume":"2"
+      }
+   }
+}
